@@ -1,0 +1,11 @@
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\bin\Debug\CNL_UI.exe.config
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\bin\Debug\CNL_UI.exe
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\bin\Debug\CNL_UI.pdb
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\obj\Debug\CNL_UI.csprojResolveAssemblyReference.cache
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\obj\Debug\CNL_UI.Form1.resources
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\obj\Debug\CNL_UI.Properties.Resources.resources
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\obj\Debug\CNL_UI.csproj.GenerateResource.Cache
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\obj\Debug\CNL_UI.exe
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\obj\Debug\CNL_UI.pdb
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ersin.canli\Documents\GitHub\CNL_UI\CNL_UI\bin\Debug\Bunifu_UI_v1.5.3.xml
