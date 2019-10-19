@@ -20,3 +20,4 @@ C:\Users\ersin.canli\Documents\GitHub\CNL-UI\CNL_UI\obj\Debug\CNL_UI.csprojResol
 C:\Users\ersin.canli\Documents\GitHub\CNL-UI\CNL_UI\obj\Debug\CNL_UI.Properties.Resources.resources
 C:\Users\ersin.canli\Documents\GitHub\CNL-UI\CNL_UI\obj\Debug\CNL_UI.csproj.GenerateResource.Cache
 C:\Users\ersin.canli\Documents\GitHub\CNL-UI\CNL_UI\obj\Debug\CNL_UI.CNL.resources
+C:\Users\ersin.canli\Documents\GitHub\CNL-UI\CNL_UI\obj\Debug\CNL_UI.Form1.resources

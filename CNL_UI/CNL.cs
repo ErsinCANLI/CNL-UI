@@ -55,6 +55,12 @@ namespace CNL_UI
             //}
         }
 
+        private void bunifuFlatButton10_Click(object sender, EventArgs e)
+        {
+            Form1 yeni = new Form1();
+            yeni.Show();
+        }
+
      
     }
 }
